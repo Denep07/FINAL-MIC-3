@@ -297,7 +297,7 @@ ansible_password=MIC24
 -----
 
 ansible-inventory --list -y
-
+ansible -i /etc/ansible/hosts ISP -m ping
 -----
 vi MIC-2.yaml
 ---
