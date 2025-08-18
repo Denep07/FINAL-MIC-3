@@ -143,22 +143,26 @@ alter table PRODUCTOS add constraint FK_TIENE foreign key (ID_INVENTARIO)
 
 -- Usuarios MySQL
 CREATE USER 'Administrador'@'localhost' IDENTIFIED BY 'administrador';
-CREATE USER 'Desarrollador'@'localhost' IDENTIFIED BY 'supervisor';
-CREATE USER 'Supervisor'@'localhost' IDENTIFIED BY 'desarrollador';
+CREATE USER 'Desarrollador'@'localhost' IDENTIFIED BY 'desarollador';
+CREATE USER 'Supervisor'@'localhost' IDENTIFIED BY 'supervisor';
 
 -- Otorgar todos los privilegios sobre toda la base de datos
 GRANT ALL PRIVILEGES ON tienda_ropa_linea.* TO 'Administrador'@'localhost';
 
 -- Otorgar permisos SELECT, INSERT, UPDATE, DELETE en todas las tablas relevantes
-GRANT SELECT, INSERT, UPDATE, DELETE ON tienda_ropa_linea.clientes TO 'Desarrollador'@'localhost';
-GRANT SELECT, INSERT, UPDATE, DELETE ON tienda_ropa_linea.ordenes TO 'Desarrollador'@'localhost';
-GRANT SELECT, INSERT, UPDATE, DELETE ON tienda_ropa_linea.categorias TO 'Desarrollador'@'localhost';
-GRANT SELECT, INSERT, UPDATE, DELETE ON tienda_ropa_linea.productos TO 'Desarrollador'@'localhost';
-GRANT SELECT, INSERT, UPDATE, DELETE ON tienda_ropa_linea.usuarios TO 'Desarrollador'@'localhost';
+GRANT SELECT, INSERT, UPDATE ON tienda_ropa_linea.categorias TO 'Desarrollador'@'localhost';
+GRANT SELECT, INSERT, UPDATE ON tienda_ropa_linea.clientes TO 'Desarrollador'@'localhost';
+GRANT SELECT, INSERT, UPDATE ON tienda_ropa_linea.detalle_pedidos TO 'Desarrollador'@'localhost';
+GRANT SELECT, INSERT, UPDATE ON tienda_ropa_linea.inventario TO 'Desarrollador'@'localhost';
+GRANT SELECT, INSERT, UPDATE ON tienda_ropa_linea.pedidos TO 'Desarrollador'@'localhost';
+GRANT SELECT, INSERT, UPDATE ON tienda_ropa_linea.prooductos TO 'Desarrollador'@'localhost';
+GRANT SELECT, INSERT, UPDATE ON tienda_ropa_linea.pagos TO 'Desarrollador'@'localhost';
 
 -- Permisos de solo lectura para todas las tablas del sistema
-GRANT SELECT ON tienda_ropa_linea.clientes TO 'Supervisor'@'localhost';
-GRANT SELECT ON tienda_ropa_linea.ordenes TO 'Supervisor'@'localhost';
 GRANT SELECT ON tienda_ropa_linea.categorias TO 'Supervisor'@'localhost';
-GRANT SELECT ON tienda_ropa_linea.productos TO 'Supervisor'@'localhost';
-GRANT SELECT ON tienda_ropa_linea.usuarios TO 'Supervisor'@'localhost';
+GRANT SELECT ON tienda_ropa_linea.clientes TO 'Supervispr'@'localhost';
+GRANT SELECT ON tienda_ropa_linea.detalle_pedidos TO 'Supervisor'@'localhost';
+GRANT SELECT ON tienda_ropa_linea.inventario TO 'Supervisor'@'localhost';
+GRANT SELECT ON tienda_ropa_linea.pedidos TO 'Supervisor'@'localhost';
+GRANT SELECT ON tienda_ropa_linea.prooductos TO 'Supervisor'@'localhost';
+GRANT SELECT ON tienda_ropa_linea.pagos TO 'Supervisor'@'localhost';
