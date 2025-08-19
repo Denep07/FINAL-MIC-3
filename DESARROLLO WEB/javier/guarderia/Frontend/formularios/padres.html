@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Gestión de Padres/Tutores</title>
+	<link rel="stylesheet" href="../css/empleados.css">
+</head>
+<body>
+	<button onclick="window.location.href='menu.html'" style="margin: 20px;">Regresar al Menú</button>
+	<div class="padres-container">
+		<h2>Gestión de Padres/Tutores</h2>
+		<form id="padreForm">
+			<input type="hidden" name="codigo_tutor" id="codigo_tutor">
+			<input type="text" name="nombre_completo" placeholder="Nombre completo" required>
+			<input type="text" name="relacion_con_nino" placeholder="Relación con el niño" required>
+			<input type="text" name="direccion" placeholder="Dirección">
+			<input type="text" name="telefono" placeholder="Teléfono">
+			<input type="email" name="correo" placeholder="Correo electrónico">
+			<button type="submit" name="submitBtn">Agregar</button>
+			<button type="button" onclick="document.getElementById('padreForm').reset();">Limpiar</button>
+		</form>
+		<div class="message" id="message"></div>
+		<table>
+			<thead>
+				<tr>
+					<th>ID</th>
+					<th>Nombre</th>
+					<th>Relación</th>
+					<th>Dirección</th>
+					<th>Teléfono</th>
+					<th>Correo</th>
+					<th>Acciones</th>
+				</tr>
+			</thead>
+			<tbody id="padresTableBody">
+			</tbody>
+		</table>
+	</div>
+	<script src="../js/padres.js"></script>
+</body>
+</html>

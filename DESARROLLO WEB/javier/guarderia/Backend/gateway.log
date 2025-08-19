@@ -1,0 +1,2049 @@
+2025-08-13 07:43:14 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 07:44:18 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 07:44:30 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 07:46:58 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 07:47:10 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 07:49:29 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 07:54:32 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 07:55:31 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 07:55:41 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:26:04 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 23:26:06 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 23:28:59 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 23:29:00 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 23:29:00 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 23:29:01 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 23:30:36 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 23:33:56 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 23:34:17 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-13 23:34:41 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:35:41 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:36:43 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:38:52 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:39:18 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:44:10 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:44:15 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:45:06 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:49:57 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:53:28 - Acceso a microservicio 'auth' ruta: /auth/register
+2025-08-13 23:53:28 - Reenviando a: http://localhost:8002/register
+2025-08-13 23:53:44 - Acceso a microservicio 'auth' ruta: /auth/register
+2025-08-13 23:53:44 - Reenviando a: http://localhost:8002/register
+2025-08-13 23:54:33 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:54:33 - Reenviando a: http://localhost:8001
+2025-08-13 23:56:04 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:56:04 - Reenviando a: http://localhost:8001/atracciones
+2025-08-13 23:56:13 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:56:13 - Reenviando a: http://localhost:8001/atracciones
+2025-08-13 23:56:28 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:56:28 - Reenviando a: http://localhost:8001/atracciones
+2025-08-13 23:56:28 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:56:28 - Reenviando a: http://localhost:8001/atracciones
+2025-08-13 23:56:41 - Acceso a microservicio 'atracciones' ruta: /atracciones/4
+2025-08-13 23:56:41 - Reenviando a: http://localhost:8001/4
+2025-08-13 23:56:41 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:56:41 - Reenviando a: http://localhost:8001/atracciones
+2025-08-13 23:56:44 - Acceso a microservicio 'atracciones' ruta: /atracciones/4
+2025-08-13 23:56:44 - Reenviando a: http://localhost:8001/4
+2025-08-13 23:56:44 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:56:44 - Reenviando a: http://localhost:8001/atracciones
+2025-08-13 23:56:49 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:56:49 - Reenviando a: http://localhost:8001/atracciones
+2025-08-13 23:56:53 - Acceso a microservicio 'atracciones' ruta: /atracciones/4
+2025-08-13 23:56:53 - Reenviando a: http://localhost:8001/4
+2025-08-13 23:56:53 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:56:53 - Reenviando a: http://localhost:8001/atracciones
+2025-08-13 23:57:03 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:57:03 - Reenviando a: http://localhost:8001/atracciones
+2025-08-13 23:57:05 - Acceso a microservicio 'atracciones' ruta: /atracciones/4
+2025-08-13 23:57:05 - Reenviando a: http://localhost:8001/4
+2025-08-13 23:57:05 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:57:05 - Reenviando a: http://localhost:8001/atracciones
+2025-08-13 23:58:13 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-13 23:58:13 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:00:41 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:00:41 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:00:44 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:00:44 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:00:45 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:00:45 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:00:47 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:00:47 - Reenviando a: http://localhost:8001/5
+2025-08-14 00:00:47 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:00:47 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:01:01 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:01:01 - Reenviando a: http://localhost:8001/5
+2025-08-14 00:01:01 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:01:01 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:01:10 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:01:10 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:01:10 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:01:10 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:02:03 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:02:03 - Reenviando a: http://localhost:8001/5
+2025-08-14 00:02:03 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:02:03 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:02:12 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:02:12 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:02:23 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:02:23 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:02:30 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:02:30 - Reenviando a: http://localhost:8001/5
+2025-08-14 00:02:31 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:02:31 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:02:35 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:02:35 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:03:04 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:03:04 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:03:14 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:03:14 - Reenviando a: http://localhost:8001/5
+2025-08-14 00:03:14 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:03:14 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:03:48 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:03:48 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:03:53 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:03:53 - Reenviando a: http://localhost:8001/5
+2025-08-14 00:03:53 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:03:53 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:07:50 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:07:50 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:08:49 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:08:49 - Reenviando a: http://localhost:8001/5
+2025-08-14 00:09:13 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:09:13 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:10:19 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:10:19 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:11:03 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:11:03 - Reenviando a: http://localhost:8001/5
+2025-08-14 00:11:10 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:11:10 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:11:38 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:11:38 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:12:05 - Acceso a microservicio 'atracciones' ruta: /atracciones/6
+2025-08-14 00:12:05 - Reenviando a: http://localhost:8001/6
+2025-08-14 00:12:31 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:12:31 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:16:04 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:16:04 - Reenviando a: http://localhost:8001atracciones/atracciones
+2025-08-14 00:16:21 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:16:21 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:16:31 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:16:31 - Reenviando a: http://localhost:8001/5
+2025-08-14 00:16:31 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:16:31 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:19:21 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:19:21 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:19:27 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:19:27 - Reenviando a: http://localhost:8001/atracciones/5
+2025-08-14 00:19:27 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:19:27 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:19:35 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:19:35 - Reenviando a: http://localhost:8001/atracciones/5
+2025-08-14 00:19:35 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:19:35 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:19:39 - Acceso a microservicio 'atracciones' ruta: /atracciones/5
+2025-08-14 00:19:39 - Reenviando a: http://localhost:8001/atracciones/5
+2025-08-14 00:19:39 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:19:39 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:19:42 - Acceso a microservicio 'atracciones' ruta: /atracciones/6
+2025-08-14 00:19:42 - Reenviando a: http://localhost:8001/atracciones/6
+2025-08-14 00:19:43 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:19:43 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:20:15 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:20:15 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:20:16 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:20:16 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:20:24 - Acceso a microservicio 'atracciones' ruta: /atracciones/7
+2025-08-14 00:20:24 - Reenviando a: http://localhost:8001/atracciones/7
+2025-08-14 00:20:24 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:20:24 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:21:28 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:21:28 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:21:35 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:21:35 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:31:54 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:31:54 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:32:29 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:32:29 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:32:51 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:32:51 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:35:27 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 00:35:27 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 00:35:35 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:35:35 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:38:34 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:38:34 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:38:47 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:38:47 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:39:18 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:39:18 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:39:18 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:39:18 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:39:51 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:39:51 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:39:55 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:39:55 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:39:55 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:39:55 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:39:56 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:39:56 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:39:56 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:39:56 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:40:01 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:40:01 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:40:05 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:40:05 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:40:08 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:40:08 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:40:08 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:40:08 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:40:12 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:40:12 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:41:38 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:41:38 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:41:40 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:41:40 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:41:45 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:41:45 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:41:48 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:41:48 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:41:51 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:41:51 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:41:55 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:41:55 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:42:58 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:42:58 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:42:59 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:42:59 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:43:02 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:43:02 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:43:02 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:43:02 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:43:07 - Acceso a microservicio 'empleados' ruta: /empleados/16
+2025-08-14 00:43:07 - Reenviando a: http://localhost:8003/empleados/16
+2025-08-14 00:43:10 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:43:10 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:43:54 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:43:54 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:44:03 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:44:03 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:44:03 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:44:03 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:44:05 - Acceso a microservicio 'empleados' ruta: /empleados/20
+2025-08-14 00:44:05 - Reenviando a: http://localhost:8003/empleados/20
+2025-08-14 00:44:08 - Acceso a microservicio 'empleados' ruta: /empleados/20
+2025-08-14 00:44:08 - Reenviando a: http://localhost:8003/empleados/20
+2025-08-14 00:44:08 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:44:08 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 00:44:10 - Acceso a microservicio 'empleados' ruta: /empleados/20
+2025-08-14 00:44:10 - Reenviando a: http://localhost:8003/empleados/20
+2025-08-14 00:44:10 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 00:44:10 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 01:15:03 - Acceso a microservicio 'mantenimientos' ruta: /mantenimientos
+2025-08-14 01:15:03 - Reenviando a: http://localhost:8004/mantenimientos
+2025-08-14 01:18:08 - Acceso a microservicio 'mantenimientos' ruta: /mantenimientos
+2025-08-14 01:18:08 - Reenviando a: http://localhost:8004/mantenimientos
+2025-08-14 01:18:09 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 01:18:09 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 01:18:44 - Acceso a microservicio 'mantenimientos' ruta: /mantenimientos
+2025-08-14 01:18:44 - Reenviando a: http://localhost:8004/mantenimientos
+2025-08-14 01:18:44 - Acceso a microservicio 'mantenimientos' ruta: /mantenimientos
+2025-08-14 01:18:44 - Reenviando a: http://localhost:8004/mantenimientos
+2025-08-14 01:18:46 - Acceso a microservicio 'mantenimientos' ruta: /mantenimientos/5
+2025-08-14 01:18:46 - Reenviando a: http://localhost:8004/mantenimientos/5
+2025-08-14 01:18:50 - Acceso a microservicio 'mantenimientos' ruta: /mantenimientos/5
+2025-08-14 01:18:50 - Reenviando a: http://localhost:8004/mantenimientos/5
+2025-08-14 01:18:50 - Acceso a microservicio 'mantenimientos' ruta: /mantenimientos
+2025-08-14 01:18:50 - Reenviando a: http://localhost:8004/mantenimientos
+2025-08-14 01:19:05 - Acceso a microservicio 'mantenimientos' ruta: /mantenimientos/5
+2025-08-14 01:19:06 - Reenviando a: http://localhost:8004/mantenimientos/5
+2025-08-14 01:19:06 - Acceso a microservicio 'mantenimientos' ruta: /mantenimientos
+2025-08-14 01:19:06 - Reenviando a: http://localhost:8004/mantenimientos
+2025-08-14 01:21:02 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:21:02 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:21:22 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:21:22 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:23:52 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:23:52 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:24:59 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:24:59 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:25:22 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:25:22 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:26:04 - Acceso a microservicio 'auth' ruta: /auth
+2025-08-14 01:26:04 - Reenviando a: http://localhost:8002
+2025-08-14 01:27:30 - Acceso a microservicio 'auth' ruta: /auth/usuarios
+2025-08-14 01:27:30 - Reenviando a: http://localhost:8002/usuarios
+2025-08-14 01:29:49 - Acceso a microservicio 'auth' ruta: /auth/usuarios
+2025-08-14 01:29:49 - Reenviando a: http://localhost:8002/usuarios
+2025-08-14 01:30:33 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:30:33 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:32:12 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:32:12 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:33:34 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:33:34 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:36:27 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:36:27 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:37:49 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:37:49 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:40:14 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:40:14 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:40:42 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:40:42 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:42:39 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:42:39 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:42:45 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:42:45 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:42:54 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:42:54 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:43:41 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:43:41 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:48:50 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:48:50 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:49:07 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:49:07 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:52:47 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:52:47 - Reenviando a: http://localhost:8002/login
+2025-08-14 01:57:05 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 01:57:05 - Reenviando a: http://localhost:8002/login
+2025-08-14 02:16:10 - Acceso a microservicio 'auth' ruta: /auth/usuarios
+2025-08-14 02:16:10 - Reenviando a: http://localhost:8002/usuarios
+2025-08-14 02:22:43 - Acceso a microservicio 'auth' ruta: /auth/usuarios
+2025-08-14 02:22:43 - Reenviando a: http://localhost:8002/usuarios
+2025-08-14 03:33:57 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:33:57 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:34:01 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:34:01 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:34:30 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:34:30 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:46:08 - Acceso a microservicio 'usuarios' ruta: /usuarios
+2025-08-14 03:46:08 - Reenviando a: http://localhost:8005
+2025-08-14 03:49:17 - Acceso a microservicio 'auth' ruta: /auth/usuarios
+2025-08-14 03:49:17 - Reenviando a: http://localhost:8002/usuarios
+2025-08-14 03:05:52 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:05:52 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:05:58 - Acceso a microservicio 'auth' ruta: /auth/users
+2025-08-14 03:05:58 - Reenviando a: http://localhost:8002/users
+2025-08-14 03:06:06 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:06:06 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:21:24 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:21:24 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:21:26 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:21:26 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:21:28 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:21:28 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:21:31 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:21:31 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:21:52 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:21:52 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:22:19 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:22:19 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:22:30 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:22:30 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:25:10 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:25:10 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:26:13 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:26:13 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:26:19 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 03:26:19 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 03:26:23 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 03:26:23 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 03:26:28 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 03:26:28 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 03:27:10 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:27:10 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:27:18 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:27:18 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:28:08 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:28:08 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:28:16 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:28:16 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:28:22 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 03:28:22 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 03:28:27 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:28:27 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:30:18 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:30:18 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:30:47 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:30:47 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:30:47 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:30:47 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:31:23 - Acceso a microservicio 'users' ruta: /users/2
+2025-08-14 03:31:23 - Reenviando a: http://localhost:8005/users/2
+2025-08-14 03:31:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:31:33 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:31:44 - Acceso a microservicio 'users' ruta: /users/2
+2025-08-14 03:31:44 - Reenviando a: http://localhost:8005/users/2
+2025-08-14 03:31:47 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:31:47 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:34:17 - Acceso a microservicio 'users' ruta: /users/2
+2025-08-14 03:34:17 - Reenviando a: http://localhost:8005/users/2
+2025-08-14 03:34:26 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:34:26 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:34:38 - Acceso a microservicio 'users' ruta: /users/2
+2025-08-14 03:34:38 - Reenviando a: http://localhost:8005/users/2
+2025-08-14 03:35:30 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:35:30 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:35:40 - Acceso a microservicio 'users' ruta: /users/2
+2025-08-14 03:35:40 - Reenviando a: http://localhost:8005/users/2
+2025-08-14 03:35:44 - Acceso a microservicio 'users' ruta: /users/2
+2025-08-14 03:35:44 - Reenviando a: http://localhost:8005/users/2
+2025-08-14 03:38:22 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:38:22 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:38:32 - Acceso a microservicio 'users' ruta: /users/2
+2025-08-14 03:38:32 - Reenviando a: http://localhost:8005/users/2
+2025-08-14 03:38:32 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:38:32 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:39:02 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:39:02 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:39:27 - Acceso a microservicio 'users' ruta: /users/2
+2025-08-14 03:39:27 - Reenviando a: http://localhost:8005/users/2
+2025-08-14 03:39:27 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:39:27 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:39:51 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:39:51 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:40:01 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:40:01 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:52:10 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:52:10 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:52:13 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:52:13 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:52:16 - Acceso a microservicio 'users' ruta: /users/2
+2025-08-14 03:52:16 - Reenviando a: http://localhost:8005/users/2
+2025-08-14 03:52:16 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:52:16 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:52:36 - Acceso a microservicio 'auth' ruta: /auth/register
+2025-08-14 03:52:36 - Reenviando a: http://localhost:8002/register
+2025-08-14 03:52:37 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 03:52:37 - Reenviando a: http://localhost:8005/users
+2025-08-14 03:53:09 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:53:09 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:54:39 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:54:39 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:54:48 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:54:48 - Reenviando a: http://localhost:8002/login
+2025-08-14 03:54:55 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 03:54:55 - Reenviando a: http://localhost:8002/login
+2025-08-14 04:10:41 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 04:10:41 - Reenviando a: http://localhost:8002/login
+2025-08-14 04:12:08 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 04:12:08 - Reenviando a: http://localhost:8002/login
+2025-08-14 04:12:10 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 04:12:10 - Reenviando a: http://localhost:8005/users
+2025-08-14 04:12:16 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 04:12:16 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 04:12:20 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 04:12:20 - Reenviando a: http://localhost:8005/users
+2025-08-14 04:12:25 - Acceso a microservicio 'empleados' ruta: /empleados
+2025-08-14 04:12:25 - Reenviando a: http://localhost:8003/empleados
+2025-08-14 04:12:28 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 04:12:28 - Reenviando a: http://localhost:8005/users
+2025-08-14 04:12:33 - Acceso a microservicio 'mantenimientos' ruta: /mantenimientos
+2025-08-14 04:12:33 - Reenviando a: http://localhost:8004/mantenimientos
+2025-08-14 04:12:36 - Acceso a microservicio 'atracciones' ruta: /atracciones
+2025-08-14 04:12:36 - Reenviando a: http://localhost:8001/atracciones
+2025-08-14 04:18:14 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 04:18:14 - Reenviando a: http://localhost:8002/login
+2025-08-14 04:18:27 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 04:18:27 - Reenviando a: http://localhost:8002/login
+2025-08-14 04:18:32 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 04:18:32 - Reenviando a: http://localhost:8002/login
+2025-08-14 04:18:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 04:18:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 04:18:48 - Acceso a microservicio 'users' ruta: /users/3
+2025-08-14 04:18:48 - Reenviando a: http://localhost:8005/users/3
+2025-08-14 04:18:48 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 04:18:48 - Reenviando a: http://localhost:8005/users
+2025-08-14 04:19:02 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 04:19:02 - Reenviando a: http://localhost:8002/login
+2025-08-14 04:19:43 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 04:19:43 - Reenviando a: http://localhost:8002/login
+2025-08-14 04:19:46 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 04:19:46 - Reenviando a: http://localhost:8002/login
+2025-08-14 04:19:48 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 04:19:48 - Reenviando a: http://localhost:8005/users
+2025-08-14 04:20:00 - Acceso a microservicio 'auth' ruta: /auth/register
+2025-08-14 04:20:00 - Reenviando a: http://localhost:8002/register
+2025-08-14 04:20:00 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 04:20:00 - Reenviando a: http://localhost:8005/users
+2025-08-14 04:23:30 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 04:23:30 - Reenviando a: http://localhost:8005/users
+2025-08-14 04:23:37 - Acceso a microservicio 'users' ruta: /users/3
+2025-08-14 04:23:37 - Reenviando a: http://localhost:8005/users/3
+2025-08-14 04:23:37 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 04:23:37 - Reenviando a: http://localhost:8005/users
+2025-08-14 04:23:54 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 04:23:54 - Reenviando a: http://localhost:8002/login
+2025-08-14 04:24:00 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 04:24:00 - Reenviando a: http://localhost:8002/login
+2025-08-14 04:24:03 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 04:24:03 - Reenviando a: http://localhost:8005/users
+2025-08-14 04:24:12 - Acceso a microservicio 'users' ruta: /users/3
+2025-08-14 04:24:12 - Reenviando a: http://localhost:8005/users/3
+2025-08-14 04:24:12 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 04:24:12 - Reenviando a: http://localhost:8005/users
+2025-08-14 04:24:23 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 04:24:23 - Reenviando a: http://localhost:8002/login
+2025-08-14 17:34:46 - Acceso a microservicio 'auth' ruta: /auth/categorias
+2025-08-14 17:34:46 - Reenviando a: http://localhost:8002/categorias
+2025-08-14 17:36:51 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 17:36:51 - Reenviando a: http://localhost:8002/login
+2025-08-14 17:37:37 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 17:37:37 - Reenviando a: http://localhost:8002/login
+2025-08-14 17:38:23 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 17:38:23 - Reenviando a: http://localhost:8002/login
+2025-08-14 17:39:27 - Acceso a microservicio 'auth' ruta: /auth/usuarios
+2025-08-14 17:39:27 - Reenviando a: http://localhost:8002/usuarios
+2025-08-14 17:39:54 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 17:39:54 - Reenviando a: http://localhost:8002/login
+2025-08-14 17:41:08 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 17:41:08 - Reenviando a: http://localhost:8002/login
+2025-08-14 17:51:10 - Acceso a microservicio 'auth' ruta: /auth/register
+2025-08-14 17:51:10 - Reenviando a: http://localhost:8002/register
+2025-08-14 17:51:35 - Acceso a microservicio 'auth' ruta: /auth/register
+2025-08-14 17:51:35 - Reenviando a: http://localhost:8002/register
+2025-08-14 17:51:54 - Acceso a microservicio 'auth' ruta: /auth/register
+2025-08-14 17:51:54 - Reenviando a: http://localhost:8002/register
+2025-08-14 17:52:27 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 17:52:27 - Reenviando a: http://localhost:8002/login
+2025-08-14 17:52:36 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 17:52:36 - Reenviando a: http://localhost:8002/login
+2025-08-14 17:53:13 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 17:53:13 - Reenviando a: http://localhost:8002/login
+2025-08-14 17:54:16 - Acceso a microservicio 'auth' ruta: /auth/categorias
+2025-08-14 17:54:16 - Reenviando a: http://localhost:8002/categorias
+2025-08-14 17:55:22 - Acceso a microservicio 'auth' ruta: /auth/categorias
+2025-08-14 17:55:22 - Reenviando a: http://localhost:8002/categorias
+2025-08-14 17:56:15 - Acceso a microservicio 'auth' ruta: /auth/categorias
+2025-08-14 17:56:15 - Reenviando a: http://localhost:8002/categorias
+2025-08-14 17:59:04 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 17:59:04 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 17:59:11 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 17:59:11 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:00:44 - Acceso a microservicio 'auth' ruta: /auth/categorias
+2025-08-14 18:00:44 - Reenviando a: http://localhost:8002/categorias
+2025-08-14 18:03:45 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 18:03:45 - Reenviando a: http://localhost:8002/login
+2025-08-14 18:03:57 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 18:03:57 - Reenviando a: http://localhost:8002/login
+2025-08-14 18:04:27 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:04:27 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:04:37 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:04:37 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:05:00 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:05:00 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:05:00 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:05:00 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:05:12 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:05:12 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:05:17 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:05:17 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:05:32 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:05:32 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:11:12 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 18:11:12 - Reenviando a: http://localhost:8002/login
+2025-08-14 18:11:18 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:11:18 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:11:22 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:11:22 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:11:22 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:11:22 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:11:44 - Acceso a microservicio 'categorias' ruta: /categorias/4
+2025-08-14 18:11:44 - Reenviando a: http://localhost:8001/categorias/4
+2025-08-14 18:11:44 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:11:44 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:12:05 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:12:05 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:12:05 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:12:05 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:12:17 - Acceso a microservicio 'categorias' ruta: /categorias/5
+2025-08-14 18:12:17 - Reenviando a: http://localhost:8001/categorias/5
+2025-08-14 18:12:17 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:12:17 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:12:24 - Acceso a microservicio 'categorias' ruta: /categorias/5
+2025-08-14 18:12:24 - Reenviando a: http://localhost:8001/categorias/5
+2025-08-14 18:12:24 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 18:12:24 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 18:17:12 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-14 18:17:12 - Reenviando a: http://localhost:8003/clientes
+2025-08-14 18:19:56 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-14 18:19:56 - Reenviando a: http://localhost:8003/clientes
+2025-08-14 18:20:08 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-14 18:20:08 - Reenviando a: http://localhost:8003/clientes
+2025-08-14 18:20:08 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-14 18:20:08 - Reenviando a: http://localhost:8003/clientes
+2025-08-14 18:20:15 - Acceso a microservicio 'clientes' ruta: /clientes/4
+2025-08-14 18:20:15 - Reenviando a: http://localhost:8003/clientes/4
+2025-08-14 18:20:16 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-14 18:20:16 - Reenviando a: http://localhost:8003/clientes
+2025-08-14 18:20:23 - Acceso a microservicio 'clientes' ruta: /clientes/4
+2025-08-14 18:20:23 - Reenviando a: http://localhost:8003/clientes/4
+2025-08-14 18:20:23 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-14 18:20:23 - Reenviando a: http://localhost:8003/clientes
+2025-08-14 18:25:56 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-14 18:25:56 - Reenviando a: http://localhost:8004/productos
+2025-08-14 18:27:51 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-14 18:27:51 - Reenviando a: http://localhost:8004/productos
+2025-08-14 18:28:33 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-14 18:28:33 - Reenviando a: http://localhost:8004/productos
+2025-08-14 18:28:33 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-14 18:28:33 - Reenviando a: http://localhost:8004/productos
+2025-08-14 18:28:48 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-14 18:28:48 - Reenviando a: http://localhost:8004/productos
+2025-08-14 18:28:48 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-14 18:28:48 - Reenviando a: http://localhost:8004/productos
+2025-08-14 18:28:58 - Acceso a microservicio 'productos' ruta: /productos/6
+2025-08-14 18:28:58 - Reenviando a: http://localhost:8004/productos/6
+2025-08-14 18:28:58 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-14 18:28:58 - Reenviando a: http://localhost:8004/productos
+2025-08-14 18:29:04 - Acceso a microservicio 'productos' ruta: /productos/6
+2025-08-14 18:29:04 - Reenviando a: http://localhost:8004/productos/6
+2025-08-14 18:29:04 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-14 18:29:04 - Reenviando a: http://localhost:8004/productos
+2025-08-14 18:34:26 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 18:34:26 - Reenviando a: http://localhost:8006
+2025-08-14 18:55:44 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 18:55:44 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:06:32 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:06:32 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:07:22 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:07:22 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:07:25 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:07:25 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:09:41 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:09:41 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:09:50 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:09:50 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:10:39 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:10:39 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:12:07 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:12:07 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:12:11 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:12:11 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:12:21 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:12:21 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:12:25 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:12:25 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:13:42 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 19:13:42 - Reenviando a: http://localhost:8002/login
+2025-08-14 19:13:46 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:13:46 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:13:51 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:13:51 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:15:39 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:15:39 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:19:00 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 19:19:00 - Reenviando a: http://localhost:8002/login
+2025-08-14 19:19:03 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-14 19:19:03 - Reenviando a: http://localhost:8003/clientes
+2025-08-14 19:19:03 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:19:03 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:19:10 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:19:10 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:19:10 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:19:10 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:19:25 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:19:25 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:19:25 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:19:25 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:19:32 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:19:32 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:19:32 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:19:32 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:19:38 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:19:38 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:19:38 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:19:38 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:19:47 - Acceso a microservicio 'ordenes' ruta: /ordenes/4
+2025-08-14 19:19:47 - Reenviando a: http://localhost:8006/ordenes/4
+2025-08-14 19:19:47 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:19:47 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:19:52 - Acceso a microservicio 'ordenes' ruta: /ordenes/4
+2025-08-14 19:19:52 - Reenviando a: http://localhost:8006/ordenes/4
+2025-08-14 19:19:52 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:19:52 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:20:08 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:20:08 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:22:35 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 19:22:35 - Reenviando a: http://localhost:8002/login
+2025-08-14 19:22:37 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:22:37 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:23:12 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:23:12 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:26:13 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:26:13 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:28:50 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:28:50 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:30:25 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:30:25 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:35:12 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-14 19:35:12 - Reenviando a: http://localhost:8003/clientes
+2025-08-14 19:35:13 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 19:35:13 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 19:35:16 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:35:16 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:37:17 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:37:17 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:37:26 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 19:37:26 - Reenviando a: http://localhost:8002/login
+2025-08-14 19:37:31 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 19:37:31 - Reenviando a: http://localhost:8002/login
+2025-08-14 19:37:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:37:33 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:32 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:32 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:41 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:41 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:42 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:42 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:42 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:42 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:43 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:43 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:43 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:43 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:43 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:43 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:43 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:43 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:43 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:43 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:43 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:43 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:43 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:43 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:44 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:44 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:44 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:44 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:44 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:44 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:44 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:44 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:44 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:44 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:45 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:45 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:45 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:45 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:45 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:45 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:38:45 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:38:45 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:43:41 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:43:41 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:46:56 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 19:46:56 - Reenviando a: http://localhost:8002/login
+2025-08-14 19:46:59 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:46:59 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:47:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:47:33 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:48:54 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:48:54 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:48:56 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:48:56 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:49:00 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:49:00 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:50:12 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:50:12 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:50:13 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:50:13 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:50:14 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:50:14 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:52:10 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:52:10 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:52:12 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:52:12 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:53:15 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:53:15 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:40 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:40 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:40 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:40 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:40 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:40 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:41 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:41 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:41 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:41 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:41 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:41 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:41 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:41 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:41 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:41 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:41 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:41 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:41 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:41 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:42 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:42 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:42 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:42 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:42 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:42 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:54:42 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:54:42 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:55:15 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:55:15 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:55:29 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:55:29 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:55:43 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:55:43 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:57:26 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:57:26 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:58:51 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 19:58:51 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 19:58:55 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 19:58:55 - Reenviando a: http://localhost:8005/users
+2025-08-14 19:59:42 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-14 19:59:42 - Reenviando a: http://localhost:8001/categorias
+2025-08-14 20:00:49 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:00:49 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:00:50 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:00:50 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:00:51 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:00:51 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:00:51 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:00:51 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:00:52 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:00:52 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:44 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:44 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:44 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:44 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:45 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:45 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:45 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:45 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:45 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:45 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:45 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:45 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:45 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:45 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:46 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:46 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:46 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:46 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:46 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:46 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:46 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:46 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:46 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:46 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:46 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:46 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:01:47 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:01:47 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:02:14 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:02:14 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:02:15 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:02:15 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:02:15 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:02:15 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:02:15 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:02:15 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:02:15 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:02:15 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:02:15 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:02:15 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:02:15 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:02:15 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:02:16 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:02:16 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:02:16 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:02:16 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:03:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:03:33 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:03:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:03:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:03:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:03:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:03:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:03:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:03:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:03:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:03:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:03:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:03:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:03:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:03:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:03:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:04:13 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:04:13 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:04:13 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:04:13 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:04:13 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:04:13 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:04:13 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:04:13 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:04:14 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:04:14 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:04:14 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:04:14 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:04:38 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:04:38 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:08:27 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:08:27 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:08:28 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:08:28 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:08:34 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 20:08:34 - Reenviando a: http://localhost:8002/login
+2025-08-14 20:08:37 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:08:37 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:09:24 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:09:24 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:09:24 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:09:24 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:09:24 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:09:24 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:09:24 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:09:24 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:09:30 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 20:09:30 - Reenviando a: http://localhost:8002/login
+2025-08-14 20:09:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:09:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:12:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:12:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:12:36 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:12:36 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:12:36 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:12:36 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:12:36 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:12:36 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:12:36 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:12:36 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:12:36 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:12:36 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:12:38 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:12:38 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:13:21 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:13:21 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:13:22 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:13:22 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:16:18 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:16:18 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:17:45 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:17:45 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:20:26 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:20:26 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:21:09 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 20:21:09 - Reenviando a: http://localhost:8002/login
+2025-08-14 20:21:12 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:21:12 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:25 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:25 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:25 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:25 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:25 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:25 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:26 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:26 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:26 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:26 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:26 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:26 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:26 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:26 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:26 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:26 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:26 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:26 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:26 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:26 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:27 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:27 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:27 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:27 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:27 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:27 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:27 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:27 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:27 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:27 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:27 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:27 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:27 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:27 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:28 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:28 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:28 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:28 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:28 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:28 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:23:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:23:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:26:15 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:26:15 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:29:14 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:29:14 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:29:17 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:29:17 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:32 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:32 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:33 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:33 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:33 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:33 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:33 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:33 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:33 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:30:42 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:30:42 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:31:31 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:31:31 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:31:50 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 20:31:50 - Reenviando a: http://localhost:8002/login
+2025-08-14 20:31:54 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:31:54 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:31:58 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:31:58 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:32:06 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:32:06 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:34:00 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:34:00 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:34:13 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:34:13 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:36:06 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:36:06 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:36:10 - Acceso a microservicio 'users' ruta: /users/6
+2025-08-14 20:36:10 - Reenviando a: http://localhost:8005/users/6
+2025-08-14 20:36:10 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:36:10 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:36:12 - Acceso a microservicio 'users' ruta: /users/5
+2025-08-14 20:36:12 - Reenviando a: http://localhost:8005/users/5
+2025-08-14 20:36:12 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:36:12 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:36:14 - Acceso a microservicio 'users' ruta: /users/4
+2025-08-14 20:36:14 - Reenviando a: http://localhost:8005/users/4
+2025-08-14 20:36:14 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:36:14 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:36:21 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:36:21 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:36:25 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:36:25 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:37:02 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:37:02 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:37:11 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:37:11 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:37:25 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:37:25 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:37:27 - Acceso a microservicio 'users' ruta: /users/8
+2025-08-14 20:37:27 - Reenviando a: http://localhost:8005/users/8
+2025-08-14 20:37:27 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:37:27 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:37:29 - Acceso a microservicio 'users' ruta: /users/7
+2025-08-14 20:37:29 - Reenviando a: http://localhost:8005/users/7
+2025-08-14 20:37:29 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:37:29 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:37:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:37:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:37:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:37:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:37:57 - Acceso a microservicio 'users' ruta: /users/9
+2025-08-14 20:37:57 - Reenviando a: http://localhost:8005/users/9
+2025-08-14 20:37:57 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:37:57 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:38:53 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:38:53 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:38:59 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:38:59 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:39:00 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:39:00 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:39:07 - Acceso a microservicio 'users' ruta: /users/10
+2025-08-14 20:39:07 - Reenviando a: http://localhost:8005/users/10
+2025-08-14 20:39:07 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:39:07 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:39:16 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:39:16 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:39:16 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:39:16 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:39:35 - Acceso a microservicio 'users' ruta: /users/11
+2025-08-14 20:39:35 - Reenviando a: http://localhost:8005/users/11
+2025-08-14 20:39:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:39:35 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:39:39 - Acceso a microservicio 'users' ruta: /users/11
+2025-08-14 20:39:39 - Reenviando a: http://localhost:8005/users/11
+2025-08-14 20:39:39 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:39:39 - Reenviando a: http://localhost:8005/users
+2025-08-14 20:50:36 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-14 20:50:36 - Reenviando a: http://localhost:8006/ordenes
+2025-08-14 20:56:00 - Acceso a microservicio 'auth' ruta: /auth/users
+2025-08-14 20:56:00 - Reenviando a: http://localhost:8002/users
+2025-08-14 20:56:17 - Acceso a microservicio 'auth' ruta: /auth/usuarios
+2025-08-14 20:56:17 - Reenviando a: http://localhost:8002/usuarios
+2025-08-14 20:57:15 - Acceso a microservicio 'users' ruta: /users/usuarios
+2025-08-14 20:57:15 - Reenviando a: http://localhost:8005/users/usuarios
+2025-08-14 20:57:25 - Acceso a microservicio 'users' ruta: /users/users
+2025-08-14 20:57:25 - Reenviando a: http://localhost:8005/users/users
+2025-08-14 20:57:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 20:57:34 - Reenviando a: http://localhost:8005/users
+2025-08-14 21:00:07 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 21:00:07 - Reenviando a: http://192.168.100.2:8005/users
+2025-08-14 21:00:16 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 21:00:16 - Reenviando a: http://192.168.100.2:8005/users
+2025-08-14 21:01:07 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 21:01:07 - Reenviando a: http://192.168.100.2:8005/users
+2025-08-14 21:03:42 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 21:03:42 - Reenviando a: http://192.168.100.2:8005/users
+2025-08-14 21:06:21 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:06:21 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:06:53 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:06:53 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:10:08 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:10:08 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:10:11 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 21:10:11 - Reenviando a: http://192.168.100.2:8005/users
+2025-08-14 21:11:03 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:11:03 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:11:05 - Acceso a microservicio 'users' ruta: /users
+2025-08-14 21:11:05 - Reenviando a: http://192.168.100.2:8005/users
+2025-08-14 21:49:55 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:49:55 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:50:54 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:50:54 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:51:55 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:51:55 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:52:14 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:52:14 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:54:49 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:54:49 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:58:06 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:58:06 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:58:07 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:58:07 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:58:07 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:58:07 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:58:10 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:58:10 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:58:31 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:58:31 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 21:59:48 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 21:59:48 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-14 22:02:53 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-14 22:02:53 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-16 02:37:24 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:37:24 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-16 02:37:45 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:37:45 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-16 02:38:06 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:38:06 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-16 02:38:27 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:38:27 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-16 02:38:48 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:38:48 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-16 02:39:09 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:39:09 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-16 02:39:30 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:39:30 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-16 02:39:51 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:39:51 - Reenviando a: http://192.168.100.2:8002/login
+2025-08-16 02:40:13 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:40:13 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 02:40:13 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:40:13 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 02:40:13 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:40:13 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 02:42:02 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:42:02 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 02:44:23 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:44:23 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 02:46:31 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:46:31 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 02:47:35 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 02:47:35 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 02:57:20 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 02:57:20 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 02:57:28 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 02:57:28 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:02:16 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:02:16 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:02:58 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:02:58 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:03:57 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:03:57 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:04:00 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:04:00 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:04:03 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:04:03 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:04:07 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:04:07 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:04:07 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:04:07 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:04:11 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:04:11 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:04:14 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:04:14 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:04:18 - Acceso a microservicio 'categorias' ruta: /categorias/0
+2025-08-16 03:04:18 - Reenviando a: http://127.0.0.1:8001/categorias/0
+2025-08-16 03:04:18 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:04:18 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:04:24 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:04:24 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:04:24 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:04:24 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:05:25 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:05:25 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:05:53 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:05:53 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:05:55 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:05:55 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:05:57 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:05:57 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:05:57 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:05:57 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:06:01 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:06:01 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:06:04 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:06:04 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:06:19 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:06:19 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:06:21 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:06:21 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:06:30 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:06:30 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:06:33 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:06:33 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:06:39 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:06:39 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:06:48 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:06:48 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:07:36 - Acceso a microservicio 'categorias' ruta: /categorias/0
+2025-08-16 03:07:36 - Reenviando a: http://127.0.0.1:8001/categorias/0
+2025-08-16 03:07:36 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:07:36 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:08:19 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:08:19 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:08:19 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:08:19 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:09:03 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:09:03 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:11:10 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:11:10 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:11:15 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:11:15 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:13:05 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:13:05 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:13:08 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:13:08 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:13:16 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:13:16 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:13:16 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:13:16 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:13:28 - Acceso a microservicio 'users' ruta: /users/5
+2025-08-16 03:13:28 - Reenviando a: http://127.0.0.1:8005/users/5
+2025-08-16 03:13:28 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:13:28 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:13:33 - Acceso a microservicio 'users' ruta: /users/5
+2025-08-16 03:13:33 - Reenviando a: http://127.0.0.1:8005/users/5
+2025-08-16 03:13:33 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:13:33 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:13:49 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:13:49 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:13:49 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:13:49 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:13:56 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:13:56 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:14:02 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:14:02 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:14:07 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:14:07 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:14:22 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:14:22 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:16:11 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:16:11 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:16:13 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:16:13 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:16:34 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:16:34 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:17:00 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:17:00 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:17:03 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:17:03 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:17:10 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:17:10 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:17:13 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:17:13 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:17:19 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:17:19 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:17:23 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:17:23 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:17:25 - Acceso a microservicio 'categorias' ruta: /categorias/0
+2025-08-16 03:17:25 - Reenviando a: http://127.0.0.1:8001/categorias/0
+2025-08-16 03:17:25 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:17:25 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:17:35 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:17:35 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:17:39 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:17:39 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:17:42 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:17:42 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:17:53 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:17:53 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:17:57 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:17:57 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:18:01 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:18:01 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:18:10 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:18:10 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:18:12 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:18:12 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:18:15 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:18:15 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:18:24 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:18:24 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:18:27 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:18:27 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:18:29 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:18:29 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:19:08 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 03:19:08 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 03:19:21 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 03:19:21 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 03:20:38 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 03:20:38 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 03:20:53 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 03:20:53 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 03:21:11 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 03:21:11 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 03:21:37 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:21:37 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:25:01 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:25:01 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:25:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:25:35 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:28:19 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:28:19 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:28:48 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:28:48 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:28:50 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:28:50 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:29:05 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:29:05 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:30:21 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:30:21 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:31:38 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:31:38 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:33:26 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:33:26 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:41:19 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:41:19 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:41:21 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:41:21 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:43:39 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:43:39 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:44:00 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:44:00 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:44:07 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:44:07 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:45:20 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:45:20 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:45:23 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:45:23 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:48:44 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:48:44 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:48:58 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 03:48:58 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 03:49:04 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:49:04 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:49:14 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:49:14 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:49:18 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:49:18 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:49:21 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:49:21 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:50:18 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:50:18 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:50:20 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:50:20 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:50:31 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:50:31 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:52:16 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:52:16 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:52:44 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 03:52:44 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 03:52:47 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:52:47 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:52:51 - Acceso a microservicio 'users' ruta: /users/6
+2025-08-16 03:52:51 - Reenviando a: http://127.0.0.1:8005/users/6
+2025-08-16 03:52:51 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 03:52:51 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 03:52:59 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 03:52:59 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 03:53:16 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 03:53:16 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 03:54:05 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 03:54:05 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 03:54:15 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 03:54:15 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 03:57:10 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 03:57:10 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 03:57:18 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 03:57:18 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:00:23 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:00:23 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:00:30 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:00:30 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:00:59 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:00:59 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:01:03 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:01:03 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:01:08 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:01:08 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:01:08 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:01:08 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:01:12 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:01:12 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:01:18 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:01:18 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:01:18 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:01:18 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:01:22 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:01:22 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:02:18 - Acceso a microservicio 'clientes' ruta: /clientes/0
+2025-08-16 04:02:18 - Reenviando a: http://127.0.0.1:8003/clientes/0
+2025-08-16 04:02:18 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:02:18 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:02:55 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 04:02:55 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 04:02:58 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:02:58 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:03:26 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:03:26 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:04:04 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 04:04:04 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 04:04:08 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:04:08 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:05:58 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:05:58 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:06:04 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:06:04 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:06:04 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:06:04 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:06:10 - Acceso a microservicio 'clientes' ruta: /clientes/4
+2025-08-16 04:06:10 - Reenviando a: http://127.0.0.1:8003/clientes/4
+2025-08-16 04:06:10 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:06:10 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:06:21 - Acceso a microservicio 'clientes' ruta: /clientes/4
+2025-08-16 04:06:21 - Reenviando a: http://127.0.0.1:8003/clientes/4
+2025-08-16 04:06:21 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:06:21 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:06:24 - Acceso a microservicio 'clientes' ruta: /clientes/4
+2025-08-16 04:06:24 - Reenviando a: http://127.0.0.1:8003/clientes/4
+2025-08-16 04:06:24 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 04:06:24 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 04:06:30 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:06:30 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:07:48 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:07:48 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:13:19 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:13:19 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:13:19 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:13:19 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:13:33 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:13:33 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:26:07 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:26:07 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:26:07 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:26:07 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:26:14 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:26:14 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:27:12 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:27:12 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:27:12 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:27:12 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:27:26 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:27:26 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:27:26 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:27:26 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:27:28 - Acceso a microservicio 'productos' ruta: /productos/1
+2025-08-16 04:27:28 - Reenviando a: http://127.0.0.1:8004/productos/1
+2025-08-16 04:27:28 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:27:28 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:32:38 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:32:38 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:32:38 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:32:38 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:32:52 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:32:52 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:32:52 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:32:52 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:33:07 - Acceso a microservicio 'productos' ruta: /productos/5
+2025-08-16 04:33:07 - Reenviando a: http://127.0.0.1:8004/productos/5
+2025-08-16 04:33:07 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:33:07 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:33:21 - Acceso a microservicio 'productos' ruta: /productos/5
+2025-08-16 04:33:21 - Reenviando a: http://127.0.0.1:8004/productos/5
+2025-08-16 04:33:21 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:33:21 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:33:38 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:33:38 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:33:38 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:33:38 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:34:25 - Acceso a microservicio 'productos' ruta: /productos/6
+2025-08-16 04:34:25 - Reenviando a: http://127.0.0.1:8004/productos/6
+2025-08-16 04:34:25 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:34:25 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:34:39 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 04:34:39 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 04:34:44 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:34:44 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:34:44 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:34:44 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:34:50 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:34:50 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:35:11 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:35:11 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:35:13 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:35:13 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:35:14 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:35:14 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:36:37 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:36:37 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:36:37 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:36:37 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:36:50 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:36:50 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:36:50 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:36:50 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:36:55 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:36:55 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:36:55 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:36:55 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:36:57 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:36:57 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:37:12 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:37:12 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:37:33 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:37:33 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:37:33 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:37:33 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:40:36 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:40:36 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:40:36 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:40:36 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:41:03 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:41:03 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:41:03 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:41:03 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:41:08 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:41:08 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:41:08 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:41:08 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 05:18:39 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 05:18:39 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 05:18:39 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 05:18:39 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 05:18:46 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 05:18:46 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 05:19:10 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 05:19:10 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 05:19:14 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 05:19:14 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 05:19:14 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 05:19:14 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 05:19:21 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 05:19:21 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 05:19:21 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 05:19:21 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 05:19:29 - Acceso a microservicio 'productos' ruta: /productos/7
+2025-08-16 05:19:29 - Reenviando a: http://127.0.0.1:8004/productos/7
+2025-08-16 05:19:29 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 05:19:29 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 05:19:34 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 05:19:34 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 05:41:27 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 05:41:27 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 05:41:59 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 05:41:59 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 05:42:00 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 05:42:00 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 05:42:00 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 05:42:00 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 05:42:18 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 05:42:18 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 05:42:29 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 05:42:29 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 05:53:42 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 05:53:42 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 05:54:49 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 05:54:49 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:02:19 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:02:19 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:02:19 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:02:19 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:02:20 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:02:20 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:03:22 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:03:22 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:03:22 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:03:22 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:03:22 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:03:22 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:03:23 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:03:23 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:03:23 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:03:23 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:03:23 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:03:23 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:06:35 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:06:35 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:06:35 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:06:35 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:06:35 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:06:35 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:07:17 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:07:17 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:07:17 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:07:17 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:09:19 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:09:19 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:09:19 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:09:19 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:09:19 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:09:19 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:09:41 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:09:41 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:09:42 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:09:42 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:09:55 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:09:55 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:10:09 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:10:09 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:10:09 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:10:09 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:10:14 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:10:14 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:10:14 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:10:14 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:10:14 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:10:14 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:10:25 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:10:25 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:10:25 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:10:25 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:11:24 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:11:24 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:11:24 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:11:24 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:11:24 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:11:24 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:11:32 - Acceso a microservicio 'ordenes' ruta: /ordenes/4
+2025-08-16 06:11:32 - Reenviando a: http://127.0.0.1:8006/ordenes/4
+2025-08-16 06:11:32 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:11:32 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:11:39 - Acceso a microservicio 'ordenes' ruta: /ordenes/5
+2025-08-16 06:11:39 - Reenviando a: http://127.0.0.1:8006/ordenes/5
+2025-08-16 06:11:40 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:11:40 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:15:43 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:15:43 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:15:43 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:15:43 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:15:43 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:15:43 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:15:54 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:15:54 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:15:54 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:15:54 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:17:02 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:17:02 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:17:02 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:17:02 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:17:03 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:17:03 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:17:11 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:17:11 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:17:11 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:17:11 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:18:48 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:18:48 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:18:48 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:18:48 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:18:48 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:18:48 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:18:58 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:18:58 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:18:59 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:18:59 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:22:26 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 06:22:26 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 06:22:30 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:22:30 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:22:30 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:22:30 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:22:30 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:22:30 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:23:58 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:23:58 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:23:58 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:23:58 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:23:58 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:23:58 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:24:05 - Acceso a microservicio 'ordenes' ruta: /ordenes/7
+2025-08-16 06:24:05 - Reenviando a: http://127.0.0.1:8006/ordenes/7
+2025-08-16 06:24:05 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:24:05 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:24:12 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:24:12 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:24:12 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:24:12 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:24:18 - Acceso a microservicio 'ordenes' ruta: /ordenes/8
+2025-08-16 06:24:18 - Reenviando a: http://127.0.0.1:8006/ordenes/8
+2025-08-16 06:24:19 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:24:19 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:24:24 - Acceso a microservicio 'ordenes' ruta: /ordenes/8
+2025-08-16 06:24:24 - Reenviando a: http://127.0.0.1:8006/ordenes/8
+2025-08-16 06:24:24 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:24:24 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:24:33 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 06:24:33 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 06:24:37 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:24:37 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:24:37 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:24:37 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:24:37 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:24:37 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:24:50 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 06:24:50 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 06:24:50 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:24:50 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:24:54 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:24:54 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:24:55 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:24:55 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:24:55 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:24:55 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:25:01 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 06:25:01 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 06:25:05 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:25:05 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:25:05 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:25:05 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:25:06 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:25:06 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:25:17 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:25:17 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:25:17 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:25:17 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:25:25 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 06:25:25 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 06:25:28 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:25:28 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:25:29 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:25:29 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:25:29 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:25:29 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:26:38 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:26:38 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:26:38 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:26:38 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:26:38 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:26:38 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:26:54 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:26:54 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:26:54 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:26:54 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:26:54 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:26:54 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:27:48 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:27:48 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:27:48 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:27:48 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:27:48 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:27:48 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 06:27:59 - Acceso a microservicio 'clientes' ruta: /clientes
+2025-08-16 06:27:59 - Reenviando a: http://127.0.0.1:8003/clientes
+2025-08-16 06:27:59 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 06:27:59 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 06:28:00 - Acceso a microservicio 'ordenes' ruta: /ordenes
+2025-08-16 06:28:00 - Reenviando a: http://127.0.0.1:8006/ordenes
+2025-08-16 04:43:16 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 04:43:16 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 04:43:25 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 04:43:25 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 04:43:29 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:43:29 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:43:42 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:43:42 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:43:50 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:43:50 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:44:06 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:44:06 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:45:23 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:45:23 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:45:47 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 04:45:47 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 04:45:49 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:45:49 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:45:58 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:45:58 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:46:05 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:46:05 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:49:39 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 04:49:39 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 04:49:42 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:49:42 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:50:32 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:50:32 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:51:08 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:51:08 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:51:33 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 04:51:33 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 04:51:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:51:35 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:51:53 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 04:51:53 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 04:51:55 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:51:55 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:52:00 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:52:00 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:52:01 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:52:01 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:52:09 - Acceso a microservicio 'users' ruta: /users/12
+2025-08-16 04:52:09 - Reenviando a: http://127.0.0.1:8005/users/12
+2025-08-16 04:52:09 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:52:09 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:52:12 - Acceso a microservicio 'users' ruta: /users/12
+2025-08-16 04:52:12 - Reenviando a: http://127.0.0.1:8005/users/12
+2025-08-16 04:52:12 - Acceso a microservicio 'users' ruta: /users
+2025-08-16 04:52:12 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-16 04:52:27 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 04:52:27 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 04:52:31 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:52:31 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:53:19 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:53:19 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:53:21 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:53:21 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:53:28 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:53:28 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:53:30 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:53:30 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:55:07 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:55:07 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:55:09 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:55:09 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:55:47 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:55:47 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:55:47 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:55:47 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:56:00 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:56:00 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:56:00 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:56:00 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:56:06 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:56:06 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:56:06 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:56:06 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:56:19 - Acceso a microservicio 'productos' ruta: /productos/7
+2025-08-16 04:56:19 - Reenviando a: http://127.0.0.1:8004/productos/7
+2025-08-16 04:56:19 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:56:19 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:56:37 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:56:37 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:57:05 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-16 04:57:05 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-16 04:57:09 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-16 04:57:09 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-16 04:57:09 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:57:09 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-16 04:57:11 - Acceso a microservicio 'productos' ruta: /productos/7
+2025-08-16 04:57:11 - Reenviando a: http://127.0.0.1:8004/productos/7
+2025-08-16 04:57:11 - Acceso a microservicio 'productos' ruta: /productos
+2025-08-16 04:57:11 - Reenviando a: http://127.0.0.1:8004/productos
+2025-08-18 21:11:14 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-18 21:11:14 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-18 21:11:20 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:11:20 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:11:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:11:35 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:11:35 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:11:35 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:11:52 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:11:52 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:11:52 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:11:52 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:11:57 - Acceso a microservicio 'users' ruta: /users/4
+2025-08-18 21:11:57 - Reenviando a: http://127.0.0.1:8005/users/4
+2025-08-18 21:11:57 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:11:57 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:12:00 - Acceso a microservicio 'users' ruta: /users/4
+2025-08-18 21:12:00 - Reenviando a: http://127.0.0.1:8005/users/4
+2025-08-18 21:12:00 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:12:00 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:12:08 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:12:08 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:12:09 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:12:09 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:12:28 - Acceso a microservicio 'categorias' ruta: /categorias
+2025-08-18 21:12:28 - Reenviando a: http://127.0.0.1:8001/categorias
+2025-08-18 21:12:49 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:12:49 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:13:21 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:13:21 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:13:24 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 21:13:24 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 21:20:15 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-18 21:20:15 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-18 21:20:18 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:20:18 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:20:51 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:20:51 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:21:41 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:21:41 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:22:23 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:22:23 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:22:32 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:22:32 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:23:24 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:23:24 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:23:30 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:23:30 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:23:38 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-18 21:23:38 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-18 21:23:42 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:23:42 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:24:10 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-18 21:24:10 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-18 21:24:13 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:24:13 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:24:32 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-18 21:24:32 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-18 21:24:35 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:24:35 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:24:47 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:24:47 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:26:32 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:26:32 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:26:51 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:26:51 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:32:32 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:32 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:33 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:33 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:34 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:34 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:34 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:34 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:35 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:35 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:35 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:35 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:35 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:35 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:35 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:35 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:35 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:35 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:35 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:35 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:36 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:36 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:36 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:36 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:36 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:36 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:36 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:36 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:36 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:36 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:36 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:36 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:36 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:36 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:32:37 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:32:37 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:33:03 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:33:03 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:33:19 - Acceso a microservicio 'padres' ruta: /padres
+2025-08-18 21:33:19 - Reenviando a: http://127.0.0.1:8001
+2025-08-18 21:34:23 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:34:23 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:34:39 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:34:39 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:34:59 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:34:59 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:34:59 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:34:59 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:35:02 - Acceso a microservicio 'padres' ruta: /padres/padres/4
+2025-08-18 21:35:02 - Reenviando a: http://127.0.0.1:8001/padres/4
+2025-08-18 21:35:02 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:35:02 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:35:11 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:35:11 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:35:11 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:35:11 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:35:18 - Acceso a microservicio 'padres' ruta: /padres/padres/5
+2025-08-18 21:35:18 - Reenviando a: http://127.0.0.1:8001/padres/5
+2025-08-18 21:35:18 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:35:18 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:35:35 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-18 21:35:35 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-18 21:35:39 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:35:39 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:36:22 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-18 21:36:22 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-18 21:36:26 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:36:26 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:50:14 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:50:14 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 21:50:49 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 21:50:49 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 22:01:51 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-18 22:01:51 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-18 22:07:04 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-18 22:07:04 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-18 22:07:48 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 22:07:48 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 22:08:37 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 22:08:37 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 22:13:49 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-18 22:13:49 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-18 22:14:11 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 22:14:11 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 22:14:23 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 22:14:23 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 22:14:43 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 22:14:43 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 22:14:43 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 22:14:43 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 22:14:50 - Acceso a microservicio 'padres' ruta: /padres/padres/6
+2025-08-18 22:14:50 - Reenviando a: http://127.0.0.1:8001/padres/6
+2025-08-18 22:14:50 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 22:14:50 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 22:14:55 - Acceso a microservicio 'padres' ruta: /padres/padres/6
+2025-08-18 22:14:55 - Reenviando a: http://127.0.0.1:8001/padres/6
+2025-08-18 22:14:55 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 22:14:55 - Reenviando a: http://127.0.0.1:8001/padres
+2025-08-18 22:15:09 - Acceso a microservicio 'users' ruta: /users
+2025-08-18 22:15:09 - Reenviando a: http://127.0.0.1:8005/users
+2025-08-18 22:16:22 - Acceso a microservicio 'auth' ruta: /auth/login
+2025-08-18 22:16:22 - Reenviando a: http://127.0.0.1:8002/login
+2025-08-18 22:16:26 - Acceso a microservicio 'padres' ruta: /padres/padres
+2025-08-18 22:16:26 - Reenviando a: http://127.0.0.1:8001/padres
